@@ -1,26 +1,60 @@
-\# 📝 Python Todo CLI Project
+# 📝 Todo App (Python + Tkinter)
 
+A modern desktop Todo application built using Python and Tkinter with a clean UI and useful productivity features.
 
+---
 
-A simple command-line Todo List app built using Python.
+## 🚀 Features
 
+* ✅ Add tasks
+* ❌ Delete tasks
+* ✏️ Update tasks
+* ✔️ Mark tasks as complete
+* 🔍 Live search (real-time filtering)
+* 📂 Save & load tasks (persistent storage)
+* 🌙 Dark mode toggle
+* 📜 Scrollable task list
 
+---
 
-\## Features
+## 🛠️ Tech Stack
 
-\- Add tasks
+* Python
+* Tkinter (GUI)
 
-\- View tasks
+---
 
-\- Delete tasks
+## 💻 How to Run
 
-\- Saves tasks in a text file
-
-
-
-\## How to run
+### Option 1: Run Python file
 
 ```bash
+python todo_gui.py
+```
 
-python "Todo List.py"
+### Option 2: Run EXE
 
+* Open `dist/todo_gui.exe`
+
+---
+
+## 📸 Screenshot
+
+![Todo App](Todo App.png)
+
+---
+
+## 📌 Project Purpose
+
+This project was built to practice:
+
+* GUI development using Tkinter
+* File handling in Python
+* Event-driven programming
+* Building real desktop applications
+
+---
+
+## 🔗 Author
+
+* GitHub: https://github.com/Manasaa-codes
