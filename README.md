@@ -40,7 +40,7 @@ python todo_gui.py
 
 ## 📸 Screenshot
 
-![Todo App](TodoApp.png)
+![Todo App](ToDoApp.png)
 
 ---
 
